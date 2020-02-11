@@ -8,13 +8,14 @@
 	color:#fff;
 	margin-top:-88px;
 	padding-top:88px;
+	padding-bottom: 50px;
 	
 }
 
 .title-seja{
 	font-size:50px;
 	text-align:center;
-	margin:30px 0;
+	margin:40px 0;
 }
 
 .title-seja strong{
@@ -28,17 +29,103 @@
 }
 
 
-#vantagens h5{
+.seja-corretor h5{
 	font-size: 18px;
 
 }
 
+.seja-corretor a.btn-primary {
+    background-color: #fff;
+color: #a51e24;
+	text-transform: uppercase;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+
+.seja-corretor a.btn-primary:hover {
+    background-color: 
+#a51e24;
+color:
+    #fff;
+}
+
+
 #vantagens img{
 	margin-top: 30px;
 }
+
+
+#vantagens  strong{
+	color:#a51e24;
+}
+
+
+#col-img{
+	position: relative;
+}
+
+#col-mock{
+	position: relative;
+
+}
+
+#col-mock img{
+	margin-top: 50px;
+}
+
+
+
+.img-requisito {
+    background-image: url(../images/img-requisito.jpg);
+    width: 936px;
+    height: 574px;
+    position: relative;
+    left: -397px;
+    background-position: center top;
+    background-size: cover;
+}
+
+
+
+
+
+#requisito{
+	background-color:#dddddd;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+
+
+#requisito h2{
+	font-size: 30px;
+	font-weight: normal;
+	margin-top: 50px;
+}
+
+#requisito ul{
+	margin: 0;
+	padding: 0;
+}
+
+#requisito ul li{
+	list-style: none;
+	margin-bottom: 20px;
 	
+}
 
 
+#requisito ul li i{
+	float: left;
+	color:#a51e24;
+	margin-right: 5px;
+}
+
+#requisito ul li h4{
+	font-size: 16px;
+
+}
 
 
 .item-porque .col-md-2, .item-porque .col-md-10{
@@ -270,4 +357,41 @@ margin-left:-5px;
 	width: 24px;
 	height: 18px;
 	display: inline-block;
+}
+
+
+@media screen and (max-width: 1440px) {
+	
+	.img-requisito{
+width: 623px;
+height: 580px;
+left: -23px;
+	}
+
+}
+
+
+
+
+@media screen and (max-width: 1220px) {
+	
+	.img-requisito{
+		width: 623px;
+		height: 486px;
+		left: -167px;
+	}
+
+}
+
+
+@media screen and (max-width: 992px) {
+	
+	.img-requisito{
+		position:inherit;
+		width:100%;
+		height:300px;
+		margin-bottom:15px;
+		left: inherit;
+	}
+
 }
