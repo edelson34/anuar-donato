@@ -1,0 +1,273 @@
+
+.seja-corretor{
+	color:#666;
+}
+
+#porque-anuar{
+	background-color:#2d2d2d;
+	color:#fff;
+	margin-top:-88px;
+	padding-top:88px;
+	
+}
+
+.title-seja{
+	font-size:50px;
+	text-align:center;
+	margin:30px 0;
+}
+
+.title-seja strong{
+	color:#a51e24;
+}
+
+#vantagens .title-seja{
+	color: #666;
+	
+
+}
+
+
+#vantagens h5{
+	font-size: 18px;
+
+}
+
+#vantagens img{
+	margin-top: 30px;
+}
+	
+
+
+
+
+.item-porque .col-md-2, .item-porque .col-md-10{
+	padding:5px;
+}
+
+.item-porque .row{
+	margin-right: -5px;
+margin-left:-5px;
+}
+
+.item-porque p{
+	font-size:15px;
+}
+
+.item-porque h3{
+	font-size:22px;
+}
+
+.seja-corretor section.cover h1{
+	font-size: 30px;
+	text-align: left;
+	margin-bottom: 20px;
+}
+
+
+.seja-corretor section.cover h3{
+	font-size: 22px;
+	text-align: left;
+	font-weight:normal;
+	color: #fff;
+	margin-bottom: 20px;
+	margin-top:20px;
+}
+.seja-corretor section.cover form{
+	padding: 20px;
+	background-color: #fff;
+}
+.seja-corretor section.cover form .form-control{	
+	border-color: #e7e7e7;
+	line-height: 40px;
+	height: 40px;
+}
+.seja-corretor section.cover form h2{
+	background-color: #cccccc;
+	color: #666;
+	margin-left: -20px;
+    margin-right: -20px;
+	margin-top: -20px;
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.seja-corretor section.cover form h2 strong{
+	font-weight: bold;
+}
+/* .seja-corretor .landing-menu .navbar-nav{
+	display: block;
+	width: 100%;
+} */
+.seja-corretor .landing-menu{
+	text-align: center;
+	background-color: #2d2d2d;
+	text-transform:uppercase;
+}
+.seja-corretor .landing-menu ul, .seja-corretor .landing-menu li{
+	margin: 0;
+	padding: 0;
+}
+.seja-corretor .landing-menu li{
+	display: inline-block;
+}
+.seja-corretor .landing-menu li a,
+.seja-corretor .landing-menu li a:hover,
+.seja-corretor .landing-menu li a:active,
+.seja-corretor .landing-menu li a:focus,
+.seja-corretor .landing-menu li a:active:focus{
+	padding: 20px 10px;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+}
+.seja-corretor .landing-menu li a:hover{
+	background-color: #a51e24;
+}
+.seja-corretor .landing-menu li.active a{
+	background-color: #a51e24;
+}
+.seja-corretor .block-content-about .block-content-about-bg{
+	margin-top: 0;
+}
+.seja-corretor .block-content.block-content-about .block-content-text::after{
+	display: none;
+}
+.seja-corretor .block-content .block-content-text{
+	background-color: #fff;
+	padding: 60px 40px; 
+	z-index: 1;
+}
+.seja-corretor .block-content-about .block-content-about-bg{
+	margin-right: -76px;
+}
+.seja-corretor .actions-buttons{
+	margin-left: 70px;
+	margin-top: 14px;
+}
+.seja-corretor .breadcrumb{
+	margin-left: 70px;
+	margin-top: 10px;
+}
+.seja-corretor a.btn-like,
+.seja-corretor a.btn-like:hover,
+.seja-corretor a.btn-like:active,
+.seja-corretor a.btn-like:focus,
+.seja-corretor a.btn-like:active:focus{
+	position: relative;
+	background-color: #1a201c;
+	border-radius: 8px;
+	color: #fff;
+	padding: 4px 8px;
+}
+.seja-corretor a.btn-like:hover{
+	background-color: #fff;
+	color: #a51e24;
+}
+.seja-corretor a.btn-share,
+.seja-corretor a.btn-share:hover,
+.seja-corretor a.btn-share:active,
+.seja-corretor a.btn-share:focus,
+.seja-corretor a.btn-share:active:focus{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	background-color: #1a201c;
+	border-radius: 8px;
+	color: #fff;
+	padding: 4px 8px;
+}
+.seja-corretor a.btn-share:hover{
+	background-color: #fff;
+	color: #a51e24;
+}
+.seja-corretor a.btn-delete,
+.seja-corretor a.btn-delete:hover,
+.seja-corretor a.btn-delete:active,
+.seja-corretor a.btn-delete:focus,
+.seja-corretor a.btn-delete:active:focus{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	z-index: 1;
+	background-color: #1a201c;
+	border-radius: 8px;
+	color: #fff;
+	padding: 4px 8px;
+}
+.seja-corretor a.btn-delete:hover{
+	background-color: #fff;
+	color: #a51e24;
+}
+.seja-corretor .block-content .block-content-text h2 {
+	color: #595959;
+	font-size: 20px;
+	font-weight: normal;
+}
+.seja-corretor .price{
+	font-size: 20px;
+	color: #a51e24;
+	font-weight: bold;
+}
+.seja-corretor .price span{
+	font-size: 16px;
+	color: #595959;
+	font-weight: normal;
+}
+.seja-corretor .price small{
+	font-size: 16px;
+    font-weight: bold;
+	margin-right: 5px;
+	color: #a51e24;
+}
+.seja-corretor .btn-tag{
+	background-color: #a51e24;
+    border-radius: 12px;
+    color: #fff;
+    font-size: 12px;
+	padding: 4px 12px;
+	text-decoration: none;
+}
+.seja-corretor .area{
+	color: #595959;
+    font-size: 14px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.seja-corretor .specs {
+    margin-left: -6px;
+    margin-right: -6px;
+}
+.seja-corretor .specs .col-sm-3 {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.seja-corretor .specs .specs-border {
+    text-align: center;
+    border: 1px #ddd dashed;
+    border-radius: 20px;
+    padding: 5px 0;
+}
+.seja-corretor .specs span {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    color: #333;
+}
+.seja-corretor .specs i.bedroom {
+    height: 18px;
+    display: inline-block;
+}
+.seja-corretor .specs i.bedroom{
+	height: 18px;
+}
+.seja-corretor .specs i.bedroom::after{
+	content: '';
+	background-image: url('../images/bedroom.png');
+	width: 24px;
+	height: 18px;
+	display: inline-block;
+}
