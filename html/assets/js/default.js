@@ -1,6 +1,33 @@
 $(document).ready(function(){
 	//window.setInterval(function(){random_position('.cover', '.triangles_effect');random_position('.cover', '.circles_effect');}, 5000);
 
+	$('#carousel-seja').owlCarousel({
+		autoplay: false,
+		margin: 15,
+		smartSpeed: 1200,
+		//autoplayTimeout:100,
+		loop: false,
+		//autoWidth: true,
+		nav: false,
+		navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>'],
+		responsive: {
+			0: {
+				items: 1
+			},
+	
+			768: {
+				items: 2
+			},
+			1000: {
+				items: 3
+			},
+			1220: {
+				items: 3
+			}
+		}
+	})
+
+
 	$('[data-toggle="popover"]').popover({
 		trigger: 'focus'
 	});

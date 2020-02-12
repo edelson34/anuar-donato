@@ -50,6 +50,63 @@ color:
     #fff;
 }
 
+.item-carousel{
+	text-align:center;
+}
+
+.item-carousel small{
+	color: #a51e24;
+	font-size: 13px;
+
+}
+
+
+
+
+#trabalhe{
+	background-color: #ddd;
+	padding-top: 30px;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	}
+
+
+	#trabalhe h2{
+		text-align: center;
+		font-size: 30px;
+font-weight: normal;
+	}
+
+	#trabalhe h3{
+		text-align: center;
+		font-size: 18px;
+		margin-bottom: 20px;
+		font-weight: normal;
+	}
+
+
+	#trabalhe .btn{
+
+		background:transparent;
+text-align: center;
+margin-top: 30px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+width: 210px;
+
+	}
+
+	#trabalhe .btn:hover{
+		background:#a51e24;
+
+	}
+
+
+
+	
+
+
 
 #vantagens img{
 	margin-top: 30px;
