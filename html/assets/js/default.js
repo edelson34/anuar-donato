@@ -27,6 +27,26 @@ $(document).ready(function(){
 		}
 	})
 
+	
+
+
+
+
+	$('#carousel-depoimentos').owlCarousel({
+        autoplay: true,
+        smartSpeed: 1000,
+        autoplayHoverPause: true,
+
+        //autoplayTimeout:100,
+        loop: true,
+
+        nav: false,
+        dots: true,
+
+
+        items: 1
+    });
+  
 
 	$('[data-toggle="popover"]').popover({
 		trigger: 'focus'

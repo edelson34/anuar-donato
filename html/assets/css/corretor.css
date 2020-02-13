@@ -102,10 +102,45 @@ width: 210px;
 
 	}
 
+	#depoimentos{
+		background-image: url('../images/bg-seja.jpg');
+		padding: 80px 0;
+		color:#fff;
+		text-align: center;
+	}
 
 
+	#depoimentos .frase{
+	font-size: 40px;
+	line-height: 45px;
+}
+
+#depoimentos img{
+	width:120px;
+	height: 120px;
+	border:2px solid #fff;
+	border-radius: 200px;
+	margin: 0 auto;
+}
 	
+#depoimentos small{
+	font-size: 14px;
+	text-transform: uppercase;
 
+}
+
+
+#depoimentos .owl-theme .owl-dots .owl-dot.active span, #depoimentos .owl-theme .owl-dots .owl-dot:hover span{
+	background-color: transparent;
+	border:1px solid #fff;
+
+}
+
+#depoimentos .owl-theme .owl-dots .owl-dot span{
+	background-color: #fff;
+	border:1px solid #fff;
+
+}
 
 
 #vantagens img{
